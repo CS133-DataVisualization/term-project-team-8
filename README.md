@@ -3,7 +3,7 @@ Tamanna Singh and Angie Avalos Joel
 
 ## Structure
 ```
-repo/
+term-project-team-8/
 │
 ├── Project Assignments/
 |   |-- P1_replot-scatter.ipynb
