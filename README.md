@@ -1,6 +1,18 @@
 # Group 8: Movie Financial Success Prediction
 Tamanna Singh and Angie Avalos Joel
 
+## Structure
+```
+repo/
+│
+├── Project Assignments/
+|   |-- P1_replot-scatter.ipynb
+|   |-- P2_categorical_interactive_transform.ipynb
+|   |-- P3_interactive.ipynb
+│   └── machine_learning.ipynb
+├── movies.csv
+└── movies_metadata.csv
+```
 ## Description
 The film industry is a multi-billion-dollar market where investments carry significant financial risk. 
 High budgets do not always guarantee financial success, and some films with large budgets fail to return high revenue, while other smaller productions can be profitable. 
